@@ -1,10 +1,9 @@
 # MCBEstrogen
 Minecraft Bedrock Edition Addon: adds a handful of estrogen related items with their crafting recipes.
-(currently not operational. code will appear when version 1.0 is stable)
 
 How to get estrogen:
 
-9 berries (arranged in a crafting table as if you're making an iron block) <br>
+9 sweet berries <br>
 v v v v v <br>
 makes condensed berry goo
 
