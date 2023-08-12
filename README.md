@@ -8,4 +8,4 @@ How to get:
 > 3. Craft a Pill Press
 > 4. Press the Estrogen Pill using the Pill Press
 
-Current Release: v1.0-beta 
+Current Release: v2.0-beta 
