@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Onkornix"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.1"
+			],
+			"dash": [
+				"0.10.10"
+			]
+		}
+	},
+	"header": {
+		"name": "MCBEstrogen_v2",
+		"description": "wip",
+		"min_engine_version": [
+			1,
+			20,
+			0
+		],
+		"uuid": "2accf5b2-496f-4004-a444-4c16002352ff",
+		"version": [
+			1,
+			0,
+			8
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "95a39e95-cd66-46f0-b81f-f3a1e85b3af1",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "55763bbe-7e9b-40b0-b8c5-fcdad468dca1",
+			"version": [
+				1,
+				0,
+				8
+			]
+		}
+	]
+}

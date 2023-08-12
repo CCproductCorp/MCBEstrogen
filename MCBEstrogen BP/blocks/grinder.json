@@ -1,0 +1,57 @@
+{
+	"format_version": "1.19.50",
+	"minecraft:block": {
+		"description": {
+			"identifier": "hrt:grinder",
+			"menu_category": {
+				"category": "construction"
+			}
+		},
+		"components": {
+			"minecraft:geometry": "geometry.grinder",
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 3
+			},
+			"minecraft:destructible_by_explosion": false,
+			"minecraft:flammable": false,
+			"minecraft:map_color": "#2D0F07",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "hrt_grinder",
+					"render_method": "alpha_test"
+				}
+			},
+			"minecraft:crafting_table": {
+				"grid_size": 3,
+				"table_name": "Grinder",
+				"crafting_tags": [
+					"grinder"
+				]
+			},
+			"minecraft:collision_box": {
+				"origin": [
+					-1,
+					0,
+					-1
+				],
+				"size": [
+					16,
+					16,
+					16
+				]
+			},
+			"minecraft:selection_box": {
+				"origin": [
+					-1,
+					0,
+					-1
+				],
+				"size": [
+					16,
+					16,
+					16
+				]
+			}
+		}
+	}
+}

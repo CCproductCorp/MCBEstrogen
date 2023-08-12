@@ -1,0 +1,28 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "hrt:grinder_recipe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"U": {
+				"item": "minecraft:copper_ingot"
+			},
+			"#": {
+				"item": "minecraft:iron_ingot"
+			}
+		},
+		"pattern": [
+			"#U#",
+			"#U#",
+			"###"
+		],
+		"result": {
+			"item": "hrt:grinder",
+			"count": 1
+		}
+	}
+}
