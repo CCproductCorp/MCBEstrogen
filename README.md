@@ -1,18 +1,11 @@
 # MCBEstrogen
-Minecraft Bedrock Edition Addon: adds a handful of estrogen related items with their crafting recipes.
+Minecraft Bedrock Edition Addon: adds a way to gather natural estrogen into a convenient little girl pill
 
-How to get estrogen:
+How to get:
 
-9 sweet berries <br>
-v v v v v <br>
-makes condensed berry goo
+> 1. find Estrogen Ore naturallly generating underground at y=0 -> y=64
+> 2. Turn the ore into Estrogen Powder
+> 3. Craft a Pill Press
+> 4. Press the Estrogen Pill using the Pill Press
 
-condensed berry goo in a furnace<br>
-v v v v v<br>
-makes pure estradiol
-
-pure estradiol in a brewing stand with water bottles<br>
-v v v v v<br>
-makes Estrogen
-
-Drink the estrogen and acquire girl power
+Current Release: v1.0-beta 

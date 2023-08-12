@@ -6,32 +6,32 @@
 		],
 		"generated_with": {
 			"bridge": [
-				"2.6.0"
+				"2.6.1"
 			],
 			"dash": [
-				"0.10.8"
+				"0.10.10"
 			]
 		}
 	},
 	"header": {
-		"name": "MCBEstrogen",
-		"description": "Estrogen in Minecraft",
+		"name": "MCBEstrogen_v2",
+		"description": "wip",
 		"min_engine_version": [
 			1,
-			19,
-			50
+			20,
+			0
 		],
-		"uuid": "9da05aaa-20e9-42d5-852c-1f469f7ac694",
+		"uuid": "55763bbe-7e9b-40b0-b8c5-fcdad468dca1",
 		"version": [
 			1,
 			0,
-			6
+			8
 		]
 	},
 	"modules": [
 		{
 			"type": "data",
-			"uuid": "206a4832-b353-44eb-a6a2-e1e1fbce0e9d",
+			"uuid": "3194a647-9501-4f97-a5a6-3acb5062660f",
 			"version": [
 				1,
 				0,
@@ -41,7 +41,7 @@
 	],
 	"dependencies": [
 		{
-			"uuid": "7e853d12-c4f0-4d0d-acd9-6474435d0a95",
+			"uuid": "2accf5b2-496f-4004-a444-4c16002352ff",
 			"version": [
 				1,
 				0,

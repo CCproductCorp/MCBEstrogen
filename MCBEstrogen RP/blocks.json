@@ -3,5 +3,13 @@
 		1,
 		1,
 		0
-	]
+	],
+	"hrt:estrogen_ore_block": {
+		"sound": "stone",
+		"textures": "hrt_estrogen_ore_block"
+	},
+	"hrt:grinder": {
+		"sound": "stone",
+		"textures": "hrt_grinder"
+	}
 }

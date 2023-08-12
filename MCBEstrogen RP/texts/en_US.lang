@@ -1,3 +1,8 @@
-item.hrt:estrogen.name=Estrogen
-item.hrt:pure_estradiol.name=100% Pure Estradiol
-item.hrt:berry_goo.name=Condensed Berry Goo
+pack.name=MCBEstrogen RP
+pack.description=
+tile.hrt:estrogen_ore_block.name=Estrogen Ore Block
+item.hrt:estrogen_ore=Estrogen Ore
+tile.hrt:grinder.name=Pill Press
+item.hrt:estrogen_powder=Estrogen Powder
+tile.hrt:synth_station.name=Synthesization Station
+item.hrt:estrogen_pill=Estrogen Pill
